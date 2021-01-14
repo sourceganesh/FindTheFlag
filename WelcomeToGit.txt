@@ -10,4 +10,4 @@ If you are reading this, know that, there has already been a "commit" made. Comm
 
 When you commit your project, the project will take a snapshot of everything you have and store it. Breaking it down to the simplest core way, git is a collection of a lots of commits. 
 
-Here I will be adding your first part of the flag (1/4) "acm{c0mM1t". This flag will only be visible in this commit. It will be removed in the future versions. 
+Here we will be adding your first part of the flag (1/4) "acm{c0mM1t". This flag will only be visible in this commit. It will be removed in the future versions. 
