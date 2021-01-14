@@ -10,4 +10,6 @@ If you are reading this, know that, there has already been a "commit" made. Comm
 
 When you commit your project, the project will take a snapshot of everything you have and store it. Breaking it down to the simplest core way, git is a collection of a lots of commits. 
 
-Here we will be adding your first part of the flag (1/4) "acm{c0mM1t". This flag will only be visible in this commit. It will be removed in the future versions. 
+This sentance will be account for the last commit in the master branch. It's time we branch out. Henceforth, this master branch will be branching out into Adam and Eva. 
+
+In a project, The main project shall still remain in master branch. The extra branches are used for adding features to the master branch. 
