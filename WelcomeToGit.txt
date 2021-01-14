@@ -1,0 +1,7 @@
+Welcome to Git. 
+
+Git, in simple words, is a tool that helps you put your code online, and allow different people to contribute to it.
+
+Git is not restricted to simply that. Git is also essential in Version Control.
+
+The scope of this CTF is to simply let you all know the very basics of git and crack our secret message in the process.
